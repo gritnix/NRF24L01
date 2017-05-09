@@ -1,0 +1,7 @@
+{
+    "name": "NRF24L01",
+    "version": "0.0.0.1",
+    "author": "gritnix <https://github.com/gritnix>",
+    "license": "LGPL",
+    "description": "NRF24L01 module Library for Particle"
+}
