@@ -6,7 +6,7 @@
  version 2 as published by the Free Software Foundation.
  */
 
-#include "nRF24L01.h"
+#include "NRF24L01.h"
 #include "particle-rf24_config.h"
 #include "particle-rf24.h"
 
